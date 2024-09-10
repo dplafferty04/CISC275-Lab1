@@ -7,7 +7,7 @@ const yourName : String = Donald;
 let yourPronouns : String = He/Him;
 const yourMajor : String = Computer Science;
 let classification : String = Junior;
-let oneExcite : String = Learning more about how all the different programming languages work together;
+let oneExcite : String = Learningg more about how all the different programming languages work together;
 let anyConcerns : String = Having to learn languages so quick;
 let funFact : String = I like to cook and run an instagram;
 */
